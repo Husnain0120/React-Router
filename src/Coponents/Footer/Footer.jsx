@@ -8,7 +8,7 @@ export default function Footer() {
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <img
-                                src="https://codersglobe.com/wp-content/uploads/2022/06/Group-1766.svg"
+                                src="https://cdn-icons-png.freepik.com/256/12618/12618661.png?uid=R98459826&ga=GA1.1.1114926933.1708955695&"
                                 className="mr-3 h-16"
                                 alt="Logo"
                             />
